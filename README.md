@@ -49,7 +49,7 @@ cd Contact-Management-App-Nodejs
 npm install  
 ```  
 
-3. **Set up environment variables:**  
+3. **Set up environment:**  
 Create a `.env` file in the root directory and add the following:  
 ```
 PORT=5000  
